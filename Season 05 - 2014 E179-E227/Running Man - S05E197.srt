@@ -1,6 +1,5 @@
 ﻿1
 00:00:00,552 --> 00:00:03,285
-GoldSubtitles
 <i>The first ever Running Man
 National College Ddakji Tournament!</i>
 

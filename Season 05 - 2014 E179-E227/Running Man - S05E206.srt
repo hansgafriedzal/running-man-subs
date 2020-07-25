@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,811 --> 00:00:05,683
 [Turn instant food ingredients
 into a sumptuous gourmet feast.]
@@ -257,7 +257,7 @@ I'm a member of this show.
 
 58
 00:04:02,328 --> 00:04:05,338
-'I'm a member of this show.'
+<i>'I'm a member of this show.'</i>
 
 59
 00:04:05,925 --> 00:04:08,825
@@ -2924,23 +2924,23 @@ three teams.]
 
 633
 00:39:30,670 --> 00:39:33,580
-A special shop where you can win
-the gold puzzle piece has just opened.
+<i>A special shop where you can win
+the gold puzzle piece has just opened.</i>
 
 634
 00:39:33,581 --> 00:39:36,883
-A special shop where you can win
-the gold puzzle piece has just opened.
+<i>A special shop where you can win
+the gold puzzle piece has just opened.</i>
 
 635
 00:39:36,884 --> 00:39:39,036
-Please go to 'H' restaurant in
-Samchungdong.
+<i>Please go to 'H' restaurant in
+Samchungdong.</i>
 
 636
 00:39:39,037 --> 00:39:42,021
-Please go to 'H' restaurant in
-Samchungdong.
+<i>Please go to 'H' restaurant in
+Samchungdong.</i>
 
 637
 00:39:42,022 --> 00:39:44,886
@@ -6631,7 +6631,7 @@ to come help us today.
 
 1434
 01:37:04,280 --> 01:37:06,653
-[Thank you to our panel of judges.]
+<i>[Thank you to our panel of judges.]</i>
 
 1435
 01:37:06,950 --> 01:37:08,807
@@ -6639,47 +6639,47 @@ Subtitles by DramaFever
 
 1436
 01:37:09,453 --> 01:37:11,657
-[206th race...]
+<i>[206th race...]</i>
 
 1437
 01:37:11,658 --> 01:37:14,846
-[Only two wins under his belt.]
+<i>[Only two wins under his belt.]</i>
 
 1438
 01:37:16,865 --> 01:37:19,050
-[For his third win,
-these guests have all gathered.]
+<i>[For his third win,
+these guests have all gathered.]</i>
 
 1439
 01:37:19,051 --> 01:37:22,140
-[The weakest links that Big-nose
-himself has invited onto the show.]
+<i>[The weakest links that Big-nose
+himself has invited onto the show.]</i>
 
 1440
 01:37:23,677 --> 01:37:25,709
-[Sacrificing themselves for
-the sake of their good friend.]
+<i>[Sacrificing themselves for
+the sake of their good friend.]</i>
 
 1441
 01:37:25,710 --> 01:37:28,389
-- Are you sure you guys are even my friends?
-- Why should we take the bullet for you?
+<i>- Are you sure you guys are even my friends?
+- Why should we take the bullet for you?</i>
 
 1442
 01:37:28,390 --> 01:37:30,692
-[Is their friendship being tested?]
+<i>[Is their friendship being tested?]</i>
 
 1443
 01:37:32,547 --> 01:37:36,804
-[Running Man vs Ji Suk Jin's friends-
-A battle with their pride on the line.]
+<i>[Running Man vs Ji Suk Jin's friends-
+A battle with their pride on the line.]</i>
 
 1444
 01:37:38,509 --> 01:37:41,097
-[And the ultimate battle
-that they've yet to face...]
+<i>[And the ultimate battle
+that they've yet to face...]</i>
 
 1445
 01:37:41,098 --> 01:37:43,797
-[Next week on Running Man-
-Running Man vs Big-nose and his friends.]
+<i>[Next week on Running Man-
+Running Man vs Big-nose and his friends.]</i>

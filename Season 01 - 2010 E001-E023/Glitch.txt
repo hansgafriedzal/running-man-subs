@@ -1,0 +1,5 @@
+In HANrel-720p some episodes has glitches which can make the subs out of sync. These subs are 
+in sync with HANrel-720p, but will be out of sync with rips without glitches (if there exsist any).
+
+E17 has a glitch i the beginning.
+E18 Several glitches

@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,970 --> 00:00:03,910
 [A National Hero's appearance]
 

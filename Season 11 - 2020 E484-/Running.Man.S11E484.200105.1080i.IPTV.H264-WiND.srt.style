@@ -1,0 +1,7 @@
+﻿ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,14,&H0080ffff,&H00ffffff,&H00000000,&H80000000,-1,0,0,0,100.00,100.00,0.00,0.00,3,2.00,3.00,2,20,20,15,0
